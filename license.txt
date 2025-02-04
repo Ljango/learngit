@@ -1,3 +1,0 @@
-瞎写了
-git tracks changes of files
-file changes ，but no changes of files was submitted to the stage
